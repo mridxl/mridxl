@@ -9,13 +9,13 @@
 
 - 📫 How to reach me : **mridxl03@gmail.com**
 
-<table>
-  <tr>
-    <td><img src="https://github-stats-nine-zeta.vercel.app/api?username=mridxl&show_icons=true&locale=en&theme=radical&hide_border=true" alt="mridxl" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com?user=mridxl&theme=radical&hide_border=true" alt="mridxl" /></td>
-  </tr>
-</table>
-
+ <br>
+ <br>
+<p align="center">
+<img src="https://github-stats-nine-zeta.vercel.app/api?username=mridxl&show_icons=true&locale=en&theme=radical&hide_border=true" alt="mridxl" />
+</p>
+<br>
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank">

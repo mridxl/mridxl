@@ -7,7 +7,7 @@
 
 - ⚡ Fun Fact : I love tech, music, and sports.
 
-- 📫 How to reach me : **khandelwalmridul03@gmail.com**
+- 📫 How to reach me : **mridxl03@gmail.com**
 
 <table>
   <tr>

@@ -14,7 +14,7 @@
 <p align="center">
 <img src="https://github-stats-nine-zeta.vercel.app/api?username=mridxl&show_icons=true&locale=en&theme=radical&hide_border=true" alt="mridxl" />
 </p>
-<br>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank">

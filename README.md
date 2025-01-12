@@ -3,7 +3,7 @@
 
 - 🌐 New to Open Source
 
-- 🌱 Currently diving into: Everything tech-related! 😄
+- 🌱 Currently diving into: Python and FastAPI for backend development
 
 - ⚡ Fun Fact : I love tech, music, and sports.
 
